@@ -1,0 +1,10 @@
+C:\Users\Karel\Dropbox\C#\Snako\Snako\bin\Debug\Snako.exe.config
+C:\Users\Karel\Dropbox\C#\Snako\Snako\bin\Debug\Snako.exe
+C:\Users\Karel\Dropbox\C#\Snako\Snako\bin\Debug\Snako.pdb
+C:\Users\Karel\Dropbox\C#\Snako\Snako\obj\Debug\Snako.csprojAssemblyReference.cache
+C:\Users\Karel\Dropbox\C#\Snako\Snako\obj\Debug\Snako.Form1.resources
+C:\Users\Karel\Dropbox\C#\Snako\Snako\obj\Debug\Snako.Properties.Resources.resources
+C:\Users\Karel\Dropbox\C#\Snako\Snako\obj\Debug\Snako.csproj.GenerateResource.cache
+C:\Users\Karel\Dropbox\C#\Snako\Snako\obj\Debug\Snako.csproj.CoreCompileInputs.cache
+C:\Users\Karel\Dropbox\C#\Snako\Snako\obj\Debug\Snako.exe
+C:\Users\Karel\Dropbox\C#\Snako\Snako\obj\Debug\Snako.pdb
